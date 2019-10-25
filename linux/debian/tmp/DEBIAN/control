@@ -1,0 +1,12 @@
+Package: linux-image-5.4.0-rc4-custom
+Source: linux-5.4.0-rc4-custom
+Version: 5.4.0-rc4-custom-1
+Architecture: amd64
+Maintainer: priya <priya@ubuntu>
+Installed-Size: 249692
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.4.0-rc4-custom
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.4.0-rc4-custom.
